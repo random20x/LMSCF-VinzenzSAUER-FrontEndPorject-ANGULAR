@@ -16,7 +16,6 @@ import { NewsComponent } from './news/news.component';
 import { FooterComponent } from './footer/footer.component';
 import { BlogComponent } from './blog/blog.component';
 import { PageHeaderComponent } from './page-header/page-header.component';
-import { AddOffersComponent } from './add-offers/add-offers.component';
 import { ShoppingCartComponent } from './shopping-cart/shopping-cart.component';
 import { BlogPostComponent } from './blog-post/blog-post.component';
 import { HomeComponent } from './home/home.component';
@@ -36,7 +35,6 @@ import { PreviewComponent } from './preview/preview.component';
     FooterComponent,
     BlogComponent,
     PageHeaderComponent,
-    AddOffersComponent,
     ShoppingCartComponent,
     BlogPostComponent,
     HomeComponent,
